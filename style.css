@@ -1,35 +1,18 @@
-/* Stylesheet for Riri Turning 18 */
-
+/* Complete styling for the galaxy love project */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    margin: 0;
-    padding: 0;
+    background: linear-gradient(to right, #1d2b64, #f8cdda);
+    color: #fff;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
-.header {
-    background-color: #ffcc00;
-    padding: 20px;
+h1 {
     text-align: center;
-}
-
-.header h1 {
-    margin: 0;
+    font-size: 3em;
 }
 
 .container {
-    max-width: 800px;
-    margin: 20px auto;
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-.footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
-}
+/* Add other styles relevant to the galaxy love project */
